@@ -173,8 +173,8 @@ cython_debug/
 
 #config.ini should not be uploaded
 
-.ini 
+*.ini 
 
 #json file should not be uploaded
 
-.json
+*.json
