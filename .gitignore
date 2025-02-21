@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#config.ini should not be uploaded
+
+.ini 
+
+#json file should not be uploaded
+
+.json
