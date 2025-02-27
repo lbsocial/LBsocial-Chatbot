@@ -6,8 +6,8 @@ Data Structure Each video object:
 
 {
   "title": "Video Title",
-  "video_id": "ID",
   "url": "https://www.youtube.com/watch?v=ID",
+"published_time":"date-time-time-zone",
   "captions": [{ "start": 15.3, "text": "Caption snippet." }]
 }
 
