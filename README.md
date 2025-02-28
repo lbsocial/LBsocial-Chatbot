@@ -2,7 +2,7 @@
 
 This project integrates an **AI-powered chatbot** into [LBSocial.net](https://lbsocial.net) using **Wix Chat and OpenAI Assistants API**. The chatbot retrieves answers from **LBSocial's YouTube video captions**, making it an **interactive learning assistant** for data analytics and AI topics.  
 
-## **LBSocial Chatbot Project Tutorial**
+## **Video Tutorial**
 
 For a step-by-step guide on setting up this chatbot, watch: 📌 **[LBSocial Chatbot Video Tutorial](https://youtu.be/kRlqZzLfKSc)**
 
